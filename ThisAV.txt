@@ -2,10 +2,9 @@
 ! Title: ThisAV用広告フィルタ
 ! Homepage: http://memoonline.blog.fc2.com/blog-entry-150.html
 !
-! 最終更新 2015/9/23 10:28
+! 最終更新 2017/8/21 12:34
 !
 ||adxpansion.com^
-||juicyads.com^
-||n72adserv.com^$script,popup
-@@||ad.thisav.com^$domain=thisav.com
-www.thisav.com###adx_floating_div
+||exosrv.com^
+||gds786bomyc.com^
+@@http://cdn.thisav.com/js/pu.js
