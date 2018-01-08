@@ -8,4 +8,5 @@
 ||exosrv.com^
 ||gds786bomyc.com^
 ||static.javhd.com^$third-party
+http://www.*.bid^$third-party,script,domain=www.thisav.com
 @@http://cdn.thisav.com/js/pu.js
