@@ -2,7 +2,7 @@
 ! Title: ThisAV用広告フィルタ
 ! Homepage: http://memoonline.blog.fc2.com/blog-entry-150.html
 !
-! 最終更新 2017/10/13 21:00
+! 最終更新 2018/01/08 22:00
 !
 ||adxpansion.com^
 ||exosrv.com^
